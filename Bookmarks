@@ -1,0 +1,264 @@
+{
+   "checksum": "ea80a1ef367e569901ef0082003d235d",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13181545902000000",
+            "id": "7",
+            "meta_info": {
+               "last_visited_desktop": "13183871353593407"
+            },
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13181578493583908",
+            "id": "22",
+            "meta_info": {
+               "last_visited_desktop": "13183816056424338"
+            },
+            "name": "Google 翻译",
+            "type": "url",
+            "url": "https://translate.google.cn/"
+         }, {
+            "date_added": "13181547868444282",
+            "id": "19",
+            "meta_info": {
+               "last_visited_desktop": "13183877988573701"
+            },
+            "name": "有道云笔记",
+            "type": "url",
+            "url": "https://note.youdao.com/web/#/file/recent/markdown/WEB136385345f999ac37d59c321cacf2658/"
+         }, {
+            "date_added": "13181578441552706",
+            "id": "21",
+            "meta_info": {
+               "last_visited_desktop": "13182769007748451"
+            },
+            "name": "nethack吧-百度贴吧--Roguelike游戏",
+            "type": "url",
+            "url": "https://tieba.baidu.com/f?kw=nethack&fr=ala0&tpl=5"
+         }, {
+            "date_added": "13181584823506834",
+            "id": "23",
+            "meta_info": {
+               "last_visited_desktop": "13182769006267204"
+            },
+            "name": "创建版本库 - 廖雪峰的官方网站",
+            "type": "url",
+            "url": "https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013743256916071d599b3aed534aaab22a0db6c4e07fd0000"
+         }, {
+            "date_added": "13181648398402333",
+            "id": "25",
+            "meta_info": {
+               "last_visited_desktop": "13183733575031719"
+            },
+            "name": "腾讯企业邮箱",
+            "type": "url",
+            "url": "https://exmail.qq.com/cgi-bin/frame_html?sid=lSSFY9m1oLwjFTxn,2&r=28e4f7f61c127178adf8958848a13e71"
+         }, {
+            "date_added": "13181653065285818",
+            "id": "26",
+            "meta_info": {
+               "last_visited_desktop": "13182936937451171"
+            },
+            "name": "戴琼锋，欢迎关注校友会及母校动态！ - QQ邮箱",
+            "type": "url",
+            "url": "https://mail.qq.com/cgi-bin/frame_html?sid=l7SZ7ylWNyS7flMI&r=1d79d30d70eafe7a6b3d57802278ed8e"
+         }, {
+            "date_added": "13181884598027345",
+            "id": "29",
+            "meta_info": {
+               "last_visited_desktop": "13182696033516306"
+            },
+            "name": "Awesome Wallpapers - wallhaven.cc",
+            "type": "url",
+            "url": "https://alpha.wallhaven.cc/"
+         }, {
+            "date_added": "13181884790875310",
+            "id": "30",
+            "meta_info": {
+               "last_visited_desktop": "13183707028519860"
+            },
+            "name": "CGWallpapers.com",
+            "type": "url",
+            "url": "https://www.cgwallpapers.com/"
+         }, {
+            "date_added": "13182245580796302",
+            "id": "34",
+            "meta_info": {
+               "last_visited_desktop": "13183787920610834"
+            },
+            "name": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+            "type": "url",
+            "url": "https://www.bilibili.com/"
+         }, {
+            "date_added": "13182681621112020",
+            "id": "42",
+            "meta_info": {
+               "last_visited_desktop": "13183787922130920"
+            },
+            "name": "C++面试 - 标签 - bencai - 博客园",
+            "type": "url",
+            "url": "https://www.cnblogs.com/bencai/tag/C%2B%2B%E9%9D%A2%E8%AF%95/"
+         }, {
+            "date_added": "13181569738233256",
+            "id": "20",
+            "meta_info": {
+               "last_visited_desktop": "13183870656668407"
+            },
+            "name": "首页 -优书网",
+            "type": "url",
+            "url": "http://www.yousuu.com/"
+         }, {
+            "date_added": "13182525536558082",
+            "id": "38",
+            "meta_info": {
+               "last_visited_desktop": "13182534756133993"
+            },
+            "name": "c++中类的学习与理解 - #ifndef - 博客园",
+            "type": "url",
+            "url": "https://www.cnblogs.com/-210843013/p/5459792.html"
+         }, {
+            "date_added": "13182528574678094",
+            "id": "39",
+            "meta_info": {
+               "last_visited_desktop": "13182528584891989"
+            },
+            "name": "1.介绍 · Rust 程序设计语言（第一版） 简体中文版",
+            "type": "url",
+            "url": "https://kaisery.gitbooks.io/rust-book-chinese/content/content/README%20%E4%BB%8B%E7%BB%8D.html"
+         }, {
+            "date_added": "13182543882177803",
+            "id": "40",
+            "meta_info": {
+               "last_visited_desktop": "13182943762961013"
+            },
+            "name": "深入理解C++中public、protected及private用法_C 语言_脚本之家",
+            "type": "url",
+            "url": "https://www.jb51.net/article/54224.htm"
+         }, {
+            "date_added": "13182686502269492",
+            "id": "43",
+            "meta_info": {
+               "last_visited_desktop": "13183862243401958"
+            },
+            "name": "const T vs. T const ——Dan Saks - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/bianbian17556231/article/details/5398276"
+         }, {
+            "date_added": "13183026435868429",
+            "id": "45",
+            "meta_info": {
+               "last_visited_desktop": "13183862245903566"
+            },
+            "name": "【liaoyaonline的博客】学习笔记_格式化串_攻击 - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/liaoyaonline"
+         }, {
+            "date_added": "13183186267555400",
+            "id": "47",
+            "meta_info": {
+               "last_visited_desktop": "13183186267555557"
+            },
+            "name": "https://portal1.ecnu.edu.cn/cas/login?service=http%3A%2F%2Fportal.ecnu.edu.cn%2Fneusoftcas.jsp",
+            "type": "url",
+            "url": "https://portal1.ecnu.edu.cn/cas/login?service=http%3A%2F%2Fportal.ecnu.edu.cn%2Fneusoftcas.jsp"
+         }, {
+            "date_added": "13183186811198610",
+            "id": "48",
+            "meta_info": {
+               "last_visited_desktop": "13183186811198777"
+            },
+            "name": "客座学生招聘启示 - 找工作 - 小木虫 - 学术 科研 互动社区",
+            "type": "url",
+            "url": "http://muchong.com/html/201808/12576763.html"
+         }, {
+            "date_added": "13183733871826318",
+            "id": "51",
+            "meta_info": {
+               "last_visited_desktop": "13183817251852281"
+            },
+            "name": "Ubuntu环境如何上传项目到GitHub网站？ - 剑影啸清寒的代码世界 - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/ajianyingxiaoqinghan/article/details/70544159"
+         }, {
+            "date_added": "13183735238546077",
+            "id": "52",
+            "meta_info": {
+               "last_visited_desktop": "13183735238546264"
+            },
+            "name": "Makefile基本语法 - u013216061的博客 - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/u013216061/article/details/70592461"
+         }, {
+            "date_added": "13183735279425590",
+            "id": "53",
+            "meta_info": {
+               "last_visited_desktop": "13183735279425785"
+            },
+            "name": "Ubuntu下makefile的简单使用 - 工大小生爱英语 - 博客园",
+            "type": "url",
+            "url": "https://www.cnblogs.com/chenguanfu/p/4415072.html"
+         }, {
+            "date_added": "13183737962768818",
+            "id": "54",
+            "meta_info": {
+               "last_visited_desktop": "13183819481282509"
+            },
+            "name": "linux入门-shell(.sh)脚本编写和运行 - Authentic Preference - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/daigualu/article/details/76358587"
+         }, {
+            "date_added": "13183738150112619",
+            "id": "55",
+            "meta_info": {
+               "last_visited_desktop": "13183862216766752"
+            },
+            "name": "十分钟学会写shell脚本 - l_215851356的专栏 - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/l_215851356/article/details/70219330"
+         }, {
+            "date_added": "13183784289987467",
+            "id": "57",
+            "meta_info": {
+               "last_visited_desktop": "13183784289988036"
+            },
+            "name": "作为计算机专业学生，最应该学习的课程前五位是什么？【知乎】 - MopTrain的博客 - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/maboqun/article/details/45542823"
+         }, {
+            "date_added": "13183805886981527",
+            "id": "58",
+            "meta_info": {
+               "last_visited_desktop": "13183805886981711"
+            },
+            "name": "tput 命令行使用说明 - 傲雪星枫 - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/fdipzone/article/details/9993961"
+         } ],
+         "date_added": "13181547785966285",
+         "date_modified": "13183877917685352",
+         "id": "1",
+         "name": "书签栏",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13181547785966288",
+         "date_modified": "0",
+         "id": "2",
+         "name": "其他书签",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13181547785966289",
+         "date_modified": "0",
+         "id": "3",
+         "name": "移动设备书签",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
