@@ -1,12 +1,12 @@
 {
-   "checksum": "ea80a1ef367e569901ef0082003d235d",
+   "checksum": "7b83605e8698f7c9f5e7110d421ed594",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "date_added": "13181545902000000",
             "id": "7",
             "meta_info": {
-               "last_visited_desktop": "13183878469555599"
+               "last_visited_desktop": "13183967111169370"
             },
             "name": "GitHub",
             "type": "url",
@@ -15,7 +15,7 @@
             "date_added": "13181578493583908",
             "id": "22",
             "meta_info": {
-               "last_visited_desktop": "13183878637006864"
+               "last_visited_desktop": "13183972157616433"
             },
             "name": "Google 翻译",
             "type": "url",
@@ -24,7 +24,7 @@
             "date_added": "13181547868444282",
             "id": "19",
             "meta_info": {
-               "last_visited_desktop": "13183878520770458"
+               "last_visited_desktop": "13183974173924854"
             },
             "name": "有道云笔记",
             "type": "url",
@@ -177,7 +177,7 @@
             "date_added": "13183733871826318",
             "id": "51",
             "meta_info": {
-               "last_visited_desktop": "13183817251852281"
+               "last_visited_desktop": "13183969016607916"
             },
             "name": "Ubuntu环境如何上传项目到GitHub网站？ - 剑影啸清寒的代码世界 - CSDN博客",
             "type": "url",
@@ -236,9 +236,18 @@
             "name": "tput 命令行使用说明 - 傲雪星枫 - CSDN博客",
             "type": "url",
             "url": "https://blog.csdn.net/fdipzone/article/details/9993961"
+         }, {
+            "date_added": "13183972019406572",
+            "id": "61",
+            "meta_info": {
+               "last_visited_desktop": "13183972019406763"
+            },
+            "name": "github上项目的目录结构说明 - xiejunna的博客 - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/xiejunna/article/details/70598029"
          } ],
          "date_added": "13181547785966285",
-         "date_modified": "13183878425168827",
+         "date_modified": "13183972019406572",
          "id": "1",
          "name": "书签栏",
          "type": "folder"
