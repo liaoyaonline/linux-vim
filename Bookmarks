@@ -1,12 +1,12 @@
 {
-   "checksum": "369d5af0ae87304dcb1181889cf16cd7",
+   "checksum": "6e65d8a85fbd521d339999436d8854d4",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "date_added": "13183985627499284",
             "id": "63",
             "meta_info": {
-               "last_visited_desktop": "13184058536273927"
+               "last_visited_desktop": "13184170696303634"
             },
             "name": "百度一下，你就知道",
             "type": "url",
@@ -15,7 +15,7 @@
             "date_added": "13181545902000000",
             "id": "7",
             "meta_info": {
-               "last_visited_desktop": "13184066560934749"
+               "last_visited_desktop": "13184170939195669"
             },
             "name": "GitHub",
             "type": "url",
@@ -33,7 +33,7 @@
             "date_added": "13181547868444282",
             "id": "19",
             "meta_info": {
-               "last_visited_desktop": "13183975002542502"
+               "last_visited_desktop": "13184159212762582"
             },
             "name": "有道云笔记",
             "type": "url",
@@ -51,7 +51,7 @@
             "date_added": "13181584823506834",
             "id": "23",
             "meta_info": {
-               "last_visited_desktop": "13182769006267204"
+               "last_visited_desktop": "13184124976405679"
             },
             "name": "创建版本库 - 廖雪峰的官方网站",
             "type": "url",
@@ -60,7 +60,7 @@
             "date_added": "13181648398402333",
             "id": "25",
             "meta_info": {
-               "last_visited_desktop": "13184058544245522"
+               "last_visited_desktop": "13184169263329615"
             },
             "name": "腾讯企业邮箱",
             "type": "url",
@@ -114,7 +114,7 @@
             "date_added": "13181569738233256",
             "id": "20",
             "meta_info": {
-               "last_visited_desktop": "13184040255421643"
+               "last_visited_desktop": "13184124979579399"
             },
             "name": "首页 -优书网",
             "type": "url",
@@ -168,7 +168,7 @@
             "date_added": "13183186267555400",
             "id": "47",
             "meta_info": {
-               "last_visited_desktop": "13183186267555557"
+               "last_visited_desktop": "13184167812280088"
             },
             "name": "https://portal1.ecnu.edu.cn/cas/login?service=http%3A%2F%2Fportal.ecnu.edu.cn%2Fneusoftcas.jsp",
             "type": "url",
@@ -254,9 +254,36 @@
             "name": "github上项目的目录结构说明 - xiejunna的博客 - CSDN博客",
             "type": "url",
             "url": "https://blog.csdn.net/xiejunna/article/details/70598029"
+         }, {
+            "date_added": "13184129362839529",
+            "id": "65",
+            "meta_info": {
+               "last_visited_desktop": "13184129362839688"
+            },
+            "name": "微信网页版",
+            "type": "url",
+            "url": "https://wx2.qq.com/"
+         }, {
+            "date_added": "13184169390000462",
+            "id": "66",
+            "meta_info": {
+               "last_visited_desktop": "13184169390000622"
+            },
+            "name": "Inbox | 71174500014@protonmail.com | ProtonMail",
+            "type": "url",
+            "url": "https://mail.protonmail.com/inbox?welcome=true"
+         }, {
+            "date_added": "13184170834144908",
+            "id": "67",
+            "meta_info": {
+               "last_visited_desktop": "13184170834145065"
+            },
+            "name": "Encrypted Message | ProtonMail",
+            "type": "url",
+            "url": "https://mail.protonmail.com/eo/message/CHh5uBzQTOfwxK7Ge1LTxyr6a2djGUdZMKoaHbMcLGFBV2gMPzZsu5Feh_h7MQ-3LoJ5HMavjx3DXAwxGt5CJQ=="
          } ],
          "date_added": "13181547785966285",
-         "date_modified": "13183985631993710",
+         "date_modified": "13184170834144908",
          "id": "1",
          "name": "书签栏",
          "type": "folder"
