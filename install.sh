@@ -101,7 +101,7 @@ function begin_install_vimplus()
     print_logo
 }
 
-# 在ubuntu发行版安装vimplus
+# 在ubuntu安装vimplus
 function install_vimplus_on_ubuntu()
 {
     install_prepare_software_on_ubuntu
