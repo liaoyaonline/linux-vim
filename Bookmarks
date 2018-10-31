@@ -1,5 +1,5 @@
 {
-   "checksum": "692c74a3a21f97fbd4868c17f21655f4",
+   "checksum": "a2cf3098d589a6943e74831fe7147456",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -42,7 +42,7 @@
             "date_added": "13185355392607070",
             "id": "75",
             "meta_info": {
-               "last_visited_desktop": "13185368726991919"
+               "last_visited_desktop": "13185371591943404"
             },
             "name": "Aria2 Web 控制台",
             "type": "url",
@@ -326,9 +326,18 @@
             "name": "aria2/aria2: aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
             "type": "url",
             "url": "https://github.com/aria2/aria2"
+         }, {
+            "date_added": "13185372116519326",
+            "id": "77",
+            "meta_info": {
+               "last_visited_desktop": "13185372116519641"
+            },
+            "name": "ubuntu18.04 aria2的安装及使用详解 - lele - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/qq_29117915/article/details/81986509"
          } ],
          "date_added": "13181547785966285",
-         "date_modified": "13185355581045262",
+         "date_modified": "13185372116519326",
          "id": "1",
          "name": "书签栏",
          "type": "folder"
