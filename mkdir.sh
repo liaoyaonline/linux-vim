@@ -1,10 +1,8 @@
 #!/bin/bash
 function mkdir_wenjian()
 {
-    cd 
-    mkdir Cwenjian
-    mkdir github
-    mkdir cppwenjian
-    cd 
+    mkdir /home/liaoya/Cwenjian
+    mkdir /home/liaoya/github
+    mkdir /home/liaoya/cppwenjian
 }
 mkdir_wenjian
