@@ -6,30 +6,30 @@
             "date_added": "13183985627499284",
             "id": "63",
             "meta_info": {
-               "last_visited_desktop": "13187587308008554"
+               "last_visited_desktop": "13187692230371025"
             },
             "name": "百度一下，你就知道",
-            "sync_transaction_version": "101",
+            "sync_transaction_version": "155",
             "type": "url",
             "url": "https://www.baidu.com/"
          }, {
             "date_added": "13181545902000000",
             "id": "7",
             "meta_info": {
-               "last_visited_desktop": "13187178459352200"
+               "last_visited_desktop": "13187674797680039"
             },
             "name": "GitHub",
-            "sync_transaction_version": "18",
+            "sync_transaction_version": "116",
             "type": "url",
             "url": "https://github.com/"
          }, {
             "date_added": "13181578493583908",
             "id": "22",
             "meta_info": {
-               "last_visited_desktop": "13187236371566238"
+               "last_visited_desktop": "13187687527617483"
             },
             "name": "Google 翻译",
-            "sync_transaction_version": "24",
+            "sync_transaction_version": "137",
             "type": "url",
             "url": "https://translate.google.cn/"
          }, {
@@ -46,30 +46,30 @@
             "date_added": "13186119668676310",
             "id": "81",
             "meta_info": {
-               "last_visited_desktop": "13187583820189599"
+               "last_visited_desktop": "13187692232064036"
             },
             "name": "设置 | Trello",
-            "sync_transaction_version": "97",
+            "sync_transaction_version": "157",
             "type": "url",
             "url": "https://trello.com/liaoya2/account"
          }, {
             "date_added": "13186142073635464",
             "id": "86",
             "meta_info": {
-               "last_visited_desktop": "13187589594778681"
+               "last_visited_desktop": "13187692233463726"
             },
             "name": "我的云端硬盘 - Google 云端硬盘",
-            "sync_transaction_version": "102",
+            "sync_transaction_version": "159",
             "type": "url",
             "url": "https://drive.google.com/drive/my-drive"
          }, {
             "date_added": "13187522737498302",
             "id": "94",
             "meta_info": {
-               "last_visited_desktop": "13187583825933811"
+               "last_visited_desktop": "13187695215537371"
             },
             "name": "(84) 收件箱 | 71174500014@protonmail.com | ProtonMail",
-            "sync_transaction_version": "95",
+            "sync_transaction_version": "172",
             "type": "url",
             "url": "https://mail.protonmail.com/inbox/aSqR2St4RkSgF9no_W9NQ3iqs-BLi2ORND506-Gct174Vrs6TDXrklUsUHWBfYhmJbp2KBuuw89DxpLhO_A30g=="
          }, {
@@ -166,10 +166,10 @@
             "date_added": "13181569738233256",
             "id": "20",
             "meta_info": {
-               "last_visited_desktop": "13187583817247891"
+               "last_visited_desktop": "13187687297713557"
             },
             "name": "首页 -优书网",
-            "sync_transaction_version": "93",
+            "sync_transaction_version": "127",
             "type": "url",
             "url": "http://www.yousuu.com/"
          }, {
@@ -276,10 +276,10 @@
             "date_added": "13183737962768818",
             "id": "54",
             "meta_info": {
-               "last_visited_desktop": "13183819481282509"
+               "last_visited_desktop": "13187670042601420"
             },
             "name": "linux入门-shell(.sh)脚本编写和运行 - Authentic Preference - CSDN博客",
-            "sync_transaction_version": "3",
+            "sync_transaction_version": "106",
             "type": "url",
             "url": "https://blog.csdn.net/daigualu/article/details/76358587"
          }, {
@@ -489,7 +489,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "102",
+      "sync_transaction_version": "172",
       "synced": {
          "children": [  ],
          "date_added": "13181547785966289",
