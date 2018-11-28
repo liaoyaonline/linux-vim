@@ -6,30 +6,30 @@
             "date_added": "13183985627499284",
             "id": "63",
             "meta_info": {
-               "last_visited_desktop": "13187795722407890"
+               "last_visited_desktop": "13187869444387379"
             },
             "name": "百度一下，你就知道",
-            "sync_transaction_version": "193",
+            "sync_transaction_version": "215",
             "type": "url",
             "url": "https://www.baidu.com/"
          }, {
             "date_added": "13181545902000000",
             "id": "7",
             "meta_info": {
-               "last_visited_desktop": "13187674797680039"
+               "last_visited_desktop": "13187869843540759"
             },
             "name": "GitHub",
-            "sync_transaction_version": "116",
+            "sync_transaction_version": "222",
             "type": "url",
             "url": "https://github.com/"
          }, {
             "date_added": "13181578493583908",
             "id": "22",
             "meta_info": {
-               "last_visited_desktop": "13187795881193313"
+               "last_visited_desktop": "13187869446448768"
             },
             "name": "Google 翻译",
-            "sync_transaction_version": "194",
+            "sync_transaction_version": "216",
             "type": "url",
             "url": "https://translate.google.cn/"
          }, {
@@ -46,10 +46,10 @@
             "date_added": "13186119668676310",
             "id": "81",
             "meta_info": {
-               "last_visited_desktop": "13187778990573987"
+               "last_visited_desktop": "13187844475716333"
             },
             "name": "设置 | Trello",
-            "sync_transaction_version": "175",
+            "sync_transaction_version": "207",
             "type": "url",
             "url": "https://trello.com/liaoya2/account"
          }, {
@@ -86,10 +86,10 @@
             "date_added": "13187006127227663",
             "id": "88",
             "meta_info": {
-               "last_visited_desktop": "13187521058044587"
+               "last_visited_desktop": "13187843514743154"
             },
             "name": "Java 包(package) | 菜鸟教程",
-            "sync_transaction_version": "62",
+            "sync_transaction_version": "203",
             "type": "url",
             "url": "http://www.runoob.com/java/java-package.html"
          }, {
@@ -476,30 +476,30 @@
             "date_added": "13187794767232624",
             "id": "96",
             "meta_info": {
-               "last_visited_desktop": "13187794767232973"
+               "last_visited_desktop": "13187843519958303"
             },
             "name": "JavaScript 基础、进阶以及 Ubuntu 系统中的 JavaScript 开发调试工具_Linux编程_Linux公社-Linux系统门户网站",
-            "sync_transaction_version": "188",
+            "sync_transaction_version": "205",
             "type": "url",
             "url": "https://www.linuxidc.com/Linux/2016-09/135356.htm"
          }, {
             "date_added": "13187795205901501",
             "id": "97",
             "meta_info": {
-               "last_visited_desktop": "13187795205901792"
+               "last_visited_desktop": "13187843512823731"
             },
             "name": "如何在ubuntu上执行node.js 环境 - foolishbig的博客 - CSDN博客",
-            "sync_transaction_version": "192",
+            "sync_transaction_version": "202",
             "type": "url",
             "url": "https://blog.csdn.net/foolishbig/article/details/81407333"
          }, {
             "date_added": "13187796103057360",
             "id": "98",
             "meta_info": {
-               "last_visited_desktop": "13187796103057655"
+               "last_visited_desktop": "13187843509540353"
             },
             "name": "Ubuntu18.04LTS搭建nodejs环境和webStorm - Erick_Lv的博客 - CSDN博客",
-            "sync_transaction_version": "198",
+            "sync_transaction_version": "200",
             "type": "url",
             "url": "https://blog.csdn.net/qq_35976351/article/details/81481338"
          } ],
@@ -519,7 +519,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "198",
+      "sync_transaction_version": "222",
       "synced": {
          "children": [  ],
          "date_added": "13181547785966289",
