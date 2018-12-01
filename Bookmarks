@@ -1,25 +1,25 @@
 {
-   "checksum": "68335b6fb8d3778a4712005ca1423660",
+   "checksum": "92c5a0b3fd61e73f31becd7eeca673eb",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "date_added": "13183985627499284",
             "id": "63",
             "meta_info": {
-               "last_visited_desktop": "13188042420099101"
+               "last_visited_desktop": "13188057652287162"
             },
             "name": "百度一下，你就知道",
-            "sync_transaction_version": "313",
+            "sync_transaction_version": "326",
             "type": "url",
             "url": "https://www.baidu.com/"
          }, {
             "date_added": "13181545902000000",
             "id": "7",
             "meta_info": {
-               "last_visited_desktop": "13188036519572618"
+               "last_visited_desktop": "13188051113675003"
             },
             "name": "GitHub",
-            "sync_transaction_version": "297",
+            "sync_transaction_version": "320",
             "type": "url",
             "url": "https://github.com/"
          }, {
@@ -29,7 +29,7 @@
                "last_visited_desktop": "13187962820178674"
             },
             "name": "Google 翻译",
-            "sync_transaction_version": "258",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "https://translate.google.cn/"
          }, {
@@ -39,27 +39,27 @@
                "last_visited_desktop": "13187791785544797"
             },
             "name": "有道云笔记",
-            "sync_transaction_version": "180",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "https://note.youdao.com/web/#/file/recent/markdown/WEB136385345f999ac37d59c321cacf2658/"
          }, {
             "date_added": "13186119668676310",
             "id": "81",
             "meta_info": {
-               "last_visited_desktop": "13187844475716333"
+               "last_visited_desktop": "13188058694831781"
             },
             "name": "设置 | Trello",
-            "sync_transaction_version": "207",
+            "sync_transaction_version": "330",
             "type": "url",
             "url": "https://trello.com/liaoya2/account"
          }, {
             "date_added": "13186142073635464",
             "id": "86",
             "meta_info": {
-               "last_visited_desktop": "13187692233463726"
+               "last_visited_desktop": "13188058719153745"
             },
             "name": "我的云端硬盘 - Google 云端硬盘",
-            "sync_transaction_version": "159",
+            "sync_transaction_version": "329",
             "type": "url",
             "url": "https://drive.google.com/drive/my-drive"
          }, {
@@ -69,7 +69,7 @@
                "last_visited_desktop": "13187951262096932"
             },
             "name": "(84) 收件箱 | 71174500014@protonmail.com | ProtonMail",
-            "sync_transaction_version": "245",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "https://mail.protonmail.com/inbox/aSqR2St4RkSgF9no_W9NQ3iqs-BLi2ORND506-Gct174Vrs6TDXrklUsUHWBfYhmJbp2KBuuw89DxpLhO_A30g=="
          }, {
@@ -79,7 +79,7 @@
                "last_visited_desktop": "13186916591244366"
             },
             "name": "Aria2 Web 控制台",
-            "sync_transaction_version": "3",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "http://aria2c.com/"
          }, {
@@ -89,7 +89,7 @@
                "last_visited_desktop": "13187843514743154"
             },
             "name": "Java 包(package) | 菜鸟教程",
-            "sync_transaction_version": "203",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "http://www.runoob.com/java/java-package.html"
          }, {
@@ -99,7 +99,7 @@
                "last_visited_desktop": "13186929404720245"
             },
             "name": "创建版本库 - 廖雪峰的官方网站",
-            "sync_transaction_version": "3",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013743256916071d599b3aed534aaab22a0db6c4e07fd0000"
          }, {
@@ -109,7 +109,7 @@
                "last_visited_desktop": "13187337227162913"
             },
             "name": "腾讯企业邮箱",
-            "sync_transaction_version": "30",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "https://exmail.qq.com/cgi-bin/frame_html?sid=lSSFY9m1oLwjFTxn,2&r=28e4f7f61c127178adf8958848a13e71"
          }, {
@@ -119,7 +119,7 @@
                "last_visited_desktop": "13187338733599192"
             },
             "name": "戴琼锋，欢迎关注校友会及母校动态！ - QQ邮箱",
-            "sync_transaction_version": "33",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "https://mail.qq.com/cgi-bin/frame_html?sid=l7SZ7ylWNyS7flMI&r=1d79d30d70eafe7a6b3d57802278ed8e"
          }, {
@@ -129,7 +129,7 @@
                "last_visited_desktop": "13182696033516306"
             },
             "name": "Awesome Wallpapers - wallhaven.cc",
-            "sync_transaction_version": "3",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "https://alpha.wallhaven.cc/"
          }, {
@@ -139,7 +139,7 @@
                "last_visited_desktop": "13183707028519860"
             },
             "name": "CGWallpapers.com",
-            "sync_transaction_version": "3",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "https://www.cgwallpapers.com/"
          }, {
@@ -149,7 +149,7 @@
                "last_visited_desktop": "13187338938210012"
             },
             "name": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
-            "sync_transaction_version": "34",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "https://www.bilibili.com/"
          }, {
@@ -159,7 +159,7 @@
                "last_visited_desktop": "13183787922130920"
             },
             "name": "C++面试 - 标签 - bencai - 博客园",
-            "sync_transaction_version": "3",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "https://www.cnblogs.com/bencai/tag/C%2B%2B%E9%9D%A2%E8%AF%95/"
          }, {
@@ -169,7 +169,7 @@
                "last_visited_desktop": "13187948897169345"
             },
             "name": "首页 -优书网",
-            "sync_transaction_version": "241",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "http://www.yousuu.com/"
          }, {
@@ -179,7 +179,7 @@
                "last_visited_desktop": "13182534756133993"
             },
             "name": "c++中类的学习与理解 - #ifndef - 博客园",
-            "sync_transaction_version": "3",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "https://www.cnblogs.com/-210843013/p/5459792.html"
          }, {
@@ -189,7 +189,7 @@
                "last_visited_desktop": "13182528584891989"
             },
             "name": "1.介绍 · Rust 程序设计语言（第一版） 简体中文版",
-            "sync_transaction_version": "3",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "https://kaisery.gitbooks.io/rust-book-chinese/content/content/README%20%E4%BB%8B%E7%BB%8D.html"
          }, {
@@ -199,7 +199,7 @@
                "last_visited_desktop": "13182943762961013"
             },
             "name": "深入理解C++中public、protected及private用法_C 语言_脚本之家",
-            "sync_transaction_version": "3",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "https://www.jb51.net/article/54224.htm"
          }, {
@@ -209,7 +209,7 @@
                "last_visited_desktop": "13184922562193710"
             },
             "name": "const T vs. T const ——Dan Saks - CSDN博客",
-            "sync_transaction_version": "3",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "https://blog.csdn.net/bianbian17556231/article/details/5398276"
          }, {
@@ -219,7 +219,7 @@
                "last_visited_desktop": "13184922569581285"
             },
             "name": "【liaoyaonline的博客】学习笔记_格式化串_攻击 - CSDN博客",
-            "sync_transaction_version": "3",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "https://blog.csdn.net/liaoyaonline"
          }, {
@@ -229,7 +229,7 @@
                "last_visited_desktop": "13184167812280088"
             },
             "name": "https://portal1.ecnu.edu.cn/cas/login?service=http%3A%2F%2Fportal.ecnu.edu.cn%2Fneusoftcas.jsp",
-            "sync_transaction_version": "3",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "https://portal1.ecnu.edu.cn/cas/login?service=http%3A%2F%2Fportal.ecnu.edu.cn%2Fneusoftcas.jsp"
          }, {
@@ -239,7 +239,7 @@
                "last_visited_desktop": "13183186811198777"
             },
             "name": "客座学生招聘启示 - 找工作 - 小木虫 - 学术 科研 互动社区",
-            "sync_transaction_version": "3",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "http://muchong.com/html/201808/12576763.html"
          }, {
@@ -249,7 +249,7 @@
                "last_visited_desktop": "13186739583632022"
             },
             "name": "Ubuntu环境如何上传项目到GitHub网站？ - 剑影啸清寒的代码世界 - CSDN博客",
-            "sync_transaction_version": "3",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "https://blog.csdn.net/ajianyingxiaoqinghan/article/details/70544159"
          }, {
@@ -259,7 +259,7 @@
                "last_visited_desktop": "13183735238546264"
             },
             "name": "Makefile基本语法 - u013216061的博客 - CSDN博客",
-            "sync_transaction_version": "3",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "https://blog.csdn.net/u013216061/article/details/70592461"
          }, {
@@ -269,7 +269,7 @@
                "last_visited_desktop": "13183735279425785"
             },
             "name": "Ubuntu下makefile的简单使用 - 工大小生爱英语 - 博客园",
-            "sync_transaction_version": "3",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "https://www.cnblogs.com/chenguanfu/p/4415072.html"
          }, {
@@ -279,7 +279,7 @@
                "last_visited_desktop": "13187670042601420"
             },
             "name": "linux入门-shell(.sh)脚本编写和运行 - Authentic Preference - CSDN博客",
-            "sync_transaction_version": "106",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "https://blog.csdn.net/daigualu/article/details/76358587"
          }, {
@@ -289,7 +289,7 @@
                "last_visited_desktop": "13183862216766752"
             },
             "name": "十分钟学会写shell脚本 - l_215851356的专栏 - CSDN博客",
-            "sync_transaction_version": "3",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "https://blog.csdn.net/l_215851356/article/details/70219330"
          }, {
@@ -299,7 +299,7 @@
                "last_visited_desktop": "13183784289988036"
             },
             "name": "作为计算机专业学生，最应该学习的课程前五位是什么？【知乎】 - MopTrain的博客 - CSDN博客",
-            "sync_transaction_version": "3",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "https://blog.csdn.net/maboqun/article/details/45542823"
          }, {
@@ -309,7 +309,7 @@
                "last_visited_desktop": "13183805886981711"
             },
             "name": "tput 命令行使用说明 - 傲雪星枫 - CSDN博客",
-            "sync_transaction_version": "3",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "https://blog.csdn.net/fdipzone/article/details/9993961"
          }, {
@@ -319,7 +319,7 @@
                "last_visited_desktop": "13183972019406763"
             },
             "name": "github上项目的目录结构说明 - xiejunna的博客 - CSDN博客",
-            "sync_transaction_version": "3",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "https://blog.csdn.net/xiejunna/article/details/70598029"
          }, {
@@ -329,7 +329,7 @@
                "last_visited_desktop": "13187164640371034"
             },
             "name": "微信网页版",
-            "sync_transaction_version": "3",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "https://wx2.qq.com/"
          }, {
@@ -339,7 +339,7 @@
                "last_visited_desktop": "13184247625798886"
             },
             "name": "Inbox | 71174500014@protonmail.com | ProtonMail",
-            "sync_transaction_version": "3",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "https://mail.protonmail.com/inbox?welcome=true"
          }, {
@@ -349,7 +349,7 @@
                "last_visited_desktop": "13184569458317193"
             },
             "name": "Encrypted Message | ProtonMail",
-            "sync_transaction_version": "3",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "https://mail.protonmail.com/eo/message/CHh5uBzQTOfwxK7Ge1LTxyr6a2djGUdZMKoaHbMcLGFBV2gMPzZsu5Feh_h7MQ-3LoJ5HMavjx3DXAwxGt5CJQ=="
          }, {
@@ -359,7 +359,7 @@
                "last_visited_desktop": "13184919971135866"
             },
             "name": "七十年代学霸章节目录,七十年代学霸最新章节全集_风华居手机版",
-            "sync_transaction_version": "3",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "http://m.fenghuaju.cc/69_69844/all.html"
          }, {
@@ -369,7 +369,7 @@
                "last_visited_desktop": "13185528279511003"
             },
             "name": "傻逼吧 磁力链接搜索",
-            "sync_transaction_version": "3",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "https://www.findcl.co/"
          }, {
@@ -379,7 +379,7 @@
                "last_visited_desktop": "13186583053719194"
             },
             "name": "Aria2-不限速全平台下载利器 - timhbw - 博客园",
-            "sync_transaction_version": "3",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "https://www.cnblogs.com/timhbw/p/6531176.html"
          }, {
@@ -389,7 +389,7 @@
                "last_visited_desktop": "13186568880385638"
             },
             "name": "aria2/aria2: aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
-            "sync_transaction_version": "3",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "https://github.com/aria2/aria2"
          }, {
@@ -399,7 +399,7 @@
                "last_visited_desktop": "13186582830027951"
             },
             "name": "ubuntu18.04 aria2的安装及使用详解 - lele - CSDN博客",
-            "sync_transaction_version": "3",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "https://blog.csdn.net/qq_29117915/article/details/81986509"
          }, {
@@ -409,7 +409,7 @@
                "last_visited_desktop": "13186386629465733"
             },
             "name": "Rosebud",
-            "sync_transaction_version": "3",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "https://demo.rosebud.cf/"
          }, {
@@ -419,7 +419,7 @@
                "last_visited_desktop": "13186630640955944"
             },
             "name": "使用SwitchyOmega设置Chrome代理 - 2551的博客 - CSDN博客",
-            "sync_transaction_version": "3",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "https://blog.csdn.net/qq_31851531/article/details/78410146"
          }, {
@@ -429,7 +429,7 @@
                "last_visited_desktop": "13186568982770953"
             },
             "name": "nethack吧-百度贴吧--Roguelike游戏",
-            "sync_transaction_version": "81",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "https://tieba.baidu.com/f?kw=nethack&fr=ala0&tpl=5"
          }, {
@@ -439,7 +439,7 @@
                "last_visited_desktop": "13187951283869615"
             },
             "name": "YouTube",
-            "sync_transaction_version": "247",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "https://www.youtube.com/"
          }, {
@@ -449,7 +449,7 @@
                "last_visited_desktop": "13186386437037936"
             },
             "name": "Facebook - 登录或注册",
-            "sync_transaction_version": "3",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "https://www.facebook.com/"
          }, {
@@ -459,7 +459,7 @@
                "last_visited_desktop": "13187350664080539"
             },
             "name": "JSON究竟是个啥 - fwj_ntu的博客 - CSDN博客",
-            "sync_transaction_version": "46",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "https://blog.csdn.net/fwj_ntu/article/details/78237350"
          }, {
@@ -469,7 +469,7 @@
                "last_visited_desktop": "13187524862332275"
             },
             "name": "Java 教程 | 菜鸟教程",
-            "sync_transaction_version": "84",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "http://www.runoob.com/java/java-tutorial.html"
          }, {
@@ -479,7 +479,7 @@
                "last_visited_desktop": "13187880374034932"
             },
             "name": "JavaScript 基础、进阶以及 Ubuntu 系统中的 JavaScript 开发调试工具_Linux编程_Linux公社-Linux系统门户网站",
-            "sync_transaction_version": "228",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "https://www.linuxidc.com/Linux/2016-09/135356.htm"
          }, {
@@ -489,7 +489,7 @@
                "last_visited_desktop": "13187879014320791"
             },
             "name": "如何在ubuntu上执行node.js 环境 - foolishbig的博客 - CSDN博客",
-            "sync_transaction_version": "225",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "https://blog.csdn.net/foolishbig/article/details/81407333"
          }, {
@@ -499,7 +499,7 @@
                "last_visited_desktop": "13187843509540353"
             },
             "name": "Ubuntu18.04LTS搭建nodejs环境和webStorm - Erick_Lv的博客 - CSDN博客",
-            "sync_transaction_version": "200",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "https://blog.csdn.net/qq_35976351/article/details/81481338"
          }, {
@@ -509,7 +509,7 @@
                "last_visited_desktop": "13187957291423826"
             },
             "name": "Learn Vimscript the Hard Way",
-            "sync_transaction_version": "257",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "http://learnvimscriptthehardway.onefloweroneworld.com/"
          }, {
@@ -519,7 +519,7 @@
                "last_visited_desktop": "13187889628054533"
             },
             "name": "设置选项 / Learn Vimscript the Hard Way",
-            "sync_transaction_version": "239",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "http://learnvimscriptthehardway.onefloweroneworld.com/chapters/02.html"
          }, {
@@ -529,12 +529,22 @@
                "last_visited_desktop": "13187953004173112"
             },
             "name": "Linux中国开源社区|软件开发",
-            "sync_transaction_version": "251",
+            "sync_transaction_version": "312",
             "type": "url",
             "url": "https://linux.cn/tech/program/"
+         }, {
+            "date_added": "13188059391993150",
+            "id": "105",
+            "meta_info": {
+               "last_visited_desktop": "13188059391993415"
+            },
+            "name": "view-source:rosebud.juyipeng.net",
+            "sync_transaction_version": "333",
+            "type": "url",
+            "url": "view-source:http://rosebud.juyipeng.net/"
          } ],
          "date_added": "13181547785966285",
-         "date_modified": "13187953004172775",
+         "date_modified": "13188059391993150",
          "id": "1",
          "name": "书签栏",
          "sync_transaction_version": "3",
@@ -549,7 +559,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "313",
+      "sync_transaction_version": "333",
       "synced": {
          "children": [  ],
          "date_added": "13181547785966289",
