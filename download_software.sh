@@ -5,6 +5,7 @@ function download_googlechrome() #下载安装配置google chrome
     wget -q -O - https://dl.google.com/linux/linux_signing_key.pub  | sudo apt-key add -
     sudo apt-get update
     sudo apt-get install google-chrome-stable
+    cp Bookmarks /home/liaoya/.config/google-chrome/Default
 
 }
 
@@ -29,8 +30,22 @@ function download_vim() #下载安装vim
     sudo apt-get install vim
 }
 
+function download_Remarkable() #下载安装Remarkable,一个markdown文档写作工具
+{
+    sudo apt
+}
+
 function download_software() #下载安装配置常用软件
 {
-    download_google
+    download_googlechrome
+    download_aria2
+    download_shadowsocks-qt5
+    download_vim
+    download_Remarkable
 }
+download_software
+
+
+
+
 

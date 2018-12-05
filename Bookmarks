@@ -6,40 +6,40 @@
             "date_added": "13183985627499284",
             "id": "63",
             "meta_info": {
-               "last_visited_desktop": "13188385873316651"
+               "last_visited_desktop": "13188472264052570"
             },
             "name": "百度一下，你就知道",
-            "sync_transaction_version": "451",
+            "sync_transaction_version": "512",
             "type": "url",
             "url": "https://www.baidu.com/"
          }, {
             "date_added": "13181545902000000",
             "id": "7",
             "meta_info": {
-               "last_visited_desktop": "13188397733247108"
+               "last_visited_desktop": "13188472202396782"
             },
             "name": "GitHub",
-            "sync_transaction_version": "463",
+            "sync_transaction_version": "504",
             "type": "url",
             "url": "https://github.com/"
          }, {
             "date_added": "13181578493583908",
             "id": "22",
             "meta_info": {
-               "last_visited_desktop": "13188206300402305"
+               "last_visited_desktop": "13188472279209707"
             },
             "name": "Google 翻译",
-            "sync_transaction_version": "367",
+            "sync_transaction_version": "517",
             "type": "url",
             "url": "https://translate.google.cn/"
          }, {
             "date_added": "13181547868444282",
             "id": "19",
             "meta_info": {
-               "last_visited_desktop": "13188375966359148"
+               "last_visited_desktop": "13188472271528977"
             },
             "name": "有道云笔记",
-            "sync_transaction_version": "442",
+            "sync_transaction_version": "515",
             "type": "url",
             "url": "https://note.youdao.com/web/#/file/recent/markdown/WEB136385345f999ac37d59c321cacf2658/"
          }, {
@@ -56,10 +56,10 @@
             "date_added": "13186142073635464",
             "id": "86",
             "meta_info": {
-               "last_visited_desktop": "13188397641256742"
+               "last_visited_desktop": "13188472269099638"
             },
             "name": "我的云端硬盘 - Google 云端硬盘",
-            "sync_transaction_version": "462",
+            "sync_transaction_version": "514",
             "type": "url",
             "url": "https://drive.google.com/drive/my-drive"
          }, {
@@ -96,10 +96,10 @@
             "date_added": "13187006127227663",
             "id": "88",
             "meta_info": {
-               "last_visited_desktop": "13188389401980905"
+               "last_visited_desktop": "13188473282248342"
             },
             "name": "Java 包(package) | 菜鸟教程",
-            "sync_transaction_version": "460",
+            "sync_transaction_version": "525",
             "type": "url",
             "url": "http://www.runoob.com/java/java-package.html"
          }, {
@@ -116,10 +116,10 @@
             "date_added": "13188123178117984",
             "id": "107",
             "meta_info": {
-               "last_visited_desktop": "13188372557140930"
+               "last_visited_desktop": "13188454111854887"
             },
             "name": "rose-bud/rosebud-www",
-            "sync_transaction_version": "440",
+            "sync_transaction_version": "493",
             "type": "url",
             "url": "https://github.com/rose-bud/rosebud-www"
          }, {
@@ -156,10 +156,10 @@
             "date_added": "13182245580796302",
             "id": "34",
             "meta_info": {
-               "last_visited_desktop": "13188376445682765"
+               "last_visited_desktop": "13188447562002153"
             },
             "name": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
-            "sync_transaction_version": "444",
+            "sync_transaction_version": "465",
             "type": "url",
             "url": "https://www.bilibili.com/"
          }, {
@@ -559,7 +559,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "463",
+      "sync_transaction_version": "525",
       "synced": {
          "children": [  ],
          "date_added": "13181547785966289",
