@@ -1,25 +1,25 @@
 {
-   "checksum": "c17019062989053daa59bfe5fa40f383",
+   "checksum": "fdc3522ffd639f2be145beb8fe56a351",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "date_added": "13183985627499284",
             "id": "63",
             "meta_info": {
-               "last_visited_desktop": "13188311232221339"
+               "last_visited_desktop": "13188385873316651"
             },
             "name": "百度一下，你就知道",
-            "sync_transaction_version": "430",
+            "sync_transaction_version": "451",
             "type": "url",
             "url": "https://www.baidu.com/"
          }, {
             "date_added": "13181545902000000",
             "id": "7",
             "meta_info": {
-               "last_visited_desktop": "13188231206524494"
+               "last_visited_desktop": "13188397733247108"
             },
             "name": "GitHub",
-            "sync_transaction_version": "382",
+            "sync_transaction_version": "463",
             "type": "url",
             "url": "https://github.com/"
          }, {
@@ -36,30 +36,30 @@
             "date_added": "13181547868444282",
             "id": "19",
             "meta_info": {
-               "last_visited_desktop": "13188211788035245"
+               "last_visited_desktop": "13188375966359148"
             },
             "name": "有道云笔记",
-            "sync_transaction_version": "378",
+            "sync_transaction_version": "442",
             "type": "url",
             "url": "https://note.youdao.com/web/#/file/recent/markdown/WEB136385345f999ac37d59c321cacf2658/"
          }, {
             "date_added": "13188310805199355",
             "id": "111",
             "meta_info": {
-               "last_visited_desktop": "13188311552117832"
+               "last_visited_desktop": "13188386045524133"
             },
             "name": "* ROSEBUD | Trello",
-            "sync_transaction_version": "439",
+            "sync_transaction_version": "459",
             "type": "url",
             "url": "https://trello.com/trbt/home"
          }, {
             "date_added": "13186142073635464",
             "id": "86",
             "meta_info": {
-               "last_visited_desktop": "13188207571806194"
+               "last_visited_desktop": "13188397641256742"
             },
             "name": "我的云端硬盘 - Google 云端硬盘",
-            "sync_transaction_version": "369",
+            "sync_transaction_version": "462",
             "type": "url",
             "url": "https://drive.google.com/drive/my-drive"
          }, {
@@ -96,10 +96,10 @@
             "date_added": "13187006127227663",
             "id": "88",
             "meta_info": {
-               "last_visited_desktop": "13187843514743154"
+               "last_visited_desktop": "13188389401980905"
             },
             "name": "Java 包(package) | 菜鸟教程",
-            "sync_transaction_version": "312",
+            "sync_transaction_version": "460",
             "type": "url",
             "url": "http://www.runoob.com/java/java-package.html"
          }, {
@@ -116,10 +116,10 @@
             "date_added": "13188123178117984",
             "id": "107",
             "meta_info": {
-               "last_visited_desktop": "13188310030756945"
+               "last_visited_desktop": "13188372557140930"
             },
             "name": "rose-bud/rosebud-www",
-            "sync_transaction_version": "400",
+            "sync_transaction_version": "440",
             "type": "url",
             "url": "https://github.com/rose-bud/rosebud-www"
          }, {
@@ -156,10 +156,10 @@
             "date_added": "13182245580796302",
             "id": "34",
             "meta_info": {
-               "last_visited_desktop": "13187338938210012"
+               "last_visited_desktop": "13188376445682765"
             },
             "name": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
-            "sync_transaction_version": "312",
+            "sync_transaction_version": "444",
             "type": "url",
             "url": "https://www.bilibili.com/"
          }, {
@@ -343,23 +343,13 @@
             "type": "url",
             "url": "https://wx2.qq.com/"
          }, {
-            "date_added": "13184169390000462",
-            "id": "66",
-            "meta_info": {
-               "last_visited_desktop": "13184247625798886"
-            },
-            "name": "Inbox | 71174500014@protonmail.com | ProtonMail",
-            "sync_transaction_version": "312",
-            "type": "url",
-            "url": "https://mail.protonmail.com/inbox?welcome=true"
-         }, {
             "date_added": "13184170834144908",
             "id": "67",
             "meta_info": {
-               "last_visited_desktop": "13184569458317193"
+               "last_visited_desktop": "13188385588836115"
             },
             "name": "Encrypted Message | ProtonMail",
-            "sync_transaction_version": "312",
+            "sync_transaction_version": "449",
             "type": "url",
             "url": "https://mail.protonmail.com/eo/message/CHh5uBzQTOfwxK7Ge1LTxyr6a2djGUdZMKoaHbMcLGFBV2gMPzZsu5Feh_h7MQ-3LoJ5HMavjx3DXAwxGt5CJQ=="
          }, {
@@ -446,10 +436,10 @@
             "date_added": "13186140123299454",
             "id": "84",
             "meta_info": {
-               "last_visited_desktop": "13187951283869615"
+               "last_visited_desktop": "13188385887943328"
             },
             "name": "YouTube",
-            "sync_transaction_version": "312",
+            "sync_transaction_version": "452",
             "type": "url",
             "url": "https://www.youtube.com/"
          }, {
@@ -569,7 +559,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "439",
+      "sync_transaction_version": "463",
       "synced": {
          "children": [  ],
          "date_added": "13181547785966289",
