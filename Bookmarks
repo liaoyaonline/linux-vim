@@ -6,10 +6,10 @@
             "date_added": "13183985627499284",
             "id": "63",
             "meta_info": {
-               "last_visited_desktop": "13188472264052570"
+               "last_visited_desktop": "13188487269159465"
             },
             "name": "百度一下，你就知道",
-            "sync_transaction_version": "512",
+            "sync_transaction_version": "526",
             "type": "url",
             "url": "https://www.baidu.com/"
          }, {
@@ -26,10 +26,10 @@
             "date_added": "13181578493583908",
             "id": "22",
             "meta_info": {
-               "last_visited_desktop": "13188472279209707"
+               "last_visited_desktop": "13188487269164635"
             },
             "name": "Google 翻译",
-            "sync_transaction_version": "517",
+            "sync_transaction_version": "527",
             "type": "url",
             "url": "https://translate.google.cn/"
          }, {
@@ -116,10 +116,10 @@
             "date_added": "13188123178117984",
             "id": "107",
             "meta_info": {
-               "last_visited_desktop": "13188454111854887"
+               "last_visited_desktop": "13188487305566117"
             },
             "name": "rose-bud/rosebud-www",
-            "sync_transaction_version": "493",
+            "sync_transaction_version": "531",
             "type": "url",
             "url": "https://github.com/rose-bud/rosebud-www"
          }, {
@@ -156,10 +156,10 @@
             "date_added": "13182245580796302",
             "id": "34",
             "meta_info": {
-               "last_visited_desktop": "13188447562002153"
+               "last_visited_desktop": "13188487269191228"
             },
             "name": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
-            "sync_transaction_version": "465",
+            "sync_transaction_version": "530",
             "type": "url",
             "url": "https://www.bilibili.com/"
          }, {
@@ -176,10 +176,10 @@
             "date_added": "13181569738233256",
             "id": "20",
             "meta_info": {
-               "last_visited_desktop": "13187948897169345"
+               "last_visited_desktop": "13188487665096772"
             },
             "name": "首页 -优书网",
-            "sync_transaction_version": "312",
+            "sync_transaction_version": "532",
             "type": "url",
             "url": "http://www.yousuu.com/"
          }, {
@@ -559,7 +559,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "525",
+      "sync_transaction_version": "532",
       "synced": {
          "children": [  ],
          "date_added": "13181547785966289",
