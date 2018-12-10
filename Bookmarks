@@ -6,30 +6,30 @@
             "date_added": "13183985627499284",
             "id": "63",
             "meta_info": {
-               "last_visited_desktop": "13188621626882336"
+               "last_visited_desktop": "13188884454067004"
             },
             "name": "百度一下，你就知道",
-            "sync_transaction_version": "585",
+            "sync_transaction_version": "617",
             "type": "url",
             "url": "https://www.baidu.com/"
          }, {
             "date_added": "13181545902000000",
             "id": "7",
             "meta_info": {
-               "last_visited_desktop": "13188554084718113"
+               "last_visited_desktop": "13188884450906972"
             },
             "name": "GitHub",
-            "sync_transaction_version": "543",
+            "sync_transaction_version": "616",
             "type": "url",
             "url": "https://github.com/"
          }, {
             "date_added": "13181578493583908",
             "id": "22",
             "meta_info": {
-               "last_visited_desktop": "13188487269164635"
+               "last_visited_desktop": "13188884449219702"
             },
             "name": "Google 翻译",
-            "sync_transaction_version": "527",
+            "sync_transaction_version": "615",
             "type": "url",
             "url": "https://translate.google.cn/"
          }, {
@@ -336,10 +336,10 @@
             "date_added": "13184129362839529",
             "id": "65",
             "meta_info": {
-               "last_visited_desktop": "13188819773317781"
+               "last_visited_desktop": "13188884459989997"
             },
             "name": "微信网页版",
-            "sync_transaction_version": "604",
+            "sync_transaction_version": "618",
             "type": "url",
             "url": "https://wx2.qq.com/"
          }, {
@@ -559,7 +559,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "604",
+      "sync_transaction_version": "618",
       "synced": {
          "children": [  ],
          "date_added": "13181547785966289",
