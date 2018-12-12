@@ -6,20 +6,20 @@
             "date_added": "13183985627499284",
             "id": "63",
             "meta_info": {
-               "last_visited_desktop": "13189010617705021"
+               "last_visited_desktop": "13189072560686610"
             },
             "name": "百度一下，你就知道",
-            "sync_transaction_version": "656",
+            "sync_transaction_version": "681",
             "type": "url",
             "url": "https://www.baidu.com/"
          }, {
             "date_added": "13181545902000000",
             "id": "7",
             "meta_info": {
-               "last_visited_desktop": "13188968513598307"
+               "last_visited_desktop": "13189052496467748"
             },
             "name": "GitHub",
-            "sync_transaction_version": "632",
+            "sync_transaction_version": "664",
             "type": "url",
             "url": "https://github.com/"
          }, {
@@ -96,10 +96,10 @@
             "date_added": "13187006127227663",
             "id": "88",
             "meta_info": {
-               "last_visited_desktop": "13188558394924427"
+               "last_visited_desktop": "13189056195138304"
             },
             "name": "Java 包(package) | 菜鸟教程",
-            "sync_transaction_version": "554",
+            "sync_transaction_version": "675",
             "type": "url",
             "url": "http://www.runoob.com/java/java-package.html"
          }, {
@@ -336,10 +336,10 @@
             "date_added": "13184129362839529",
             "id": "65",
             "meta_info": {
-               "last_visited_desktop": "13189010527505223"
+               "last_visited_desktop": "13189052167217209"
             },
             "name": "微信网页版",
-            "sync_transaction_version": "655",
+            "sync_transaction_version": "658",
             "type": "url",
             "url": "https://wx2.qq.com/"
          }, {
@@ -466,10 +466,10 @@
             "date_added": "13187518618257792",
             "id": "92",
             "meta_info": {
-               "last_visited_desktop": "13188212031287724"
+               "last_visited_desktop": "13189062370923465"
             },
             "name": "Java 教程 | 菜鸟教程",
-            "sync_transaction_version": "379",
+            "sync_transaction_version": "679",
             "type": "url",
             "url": "http://www.runoob.com/java/java-tutorial.html"
          }, {
@@ -559,7 +559,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "656",
+      "sync_transaction_version": "681",
       "synced": {
          "children": [  ],
          "date_added": "13181547785966289",
