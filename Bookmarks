@@ -6,30 +6,30 @@
             "date_added": "13183985627499284",
             "id": "63",
             "meta_info": {
-               "last_visited_desktop": "13189078953360281"
+               "last_visited_desktop": "13189161217173057"
             },
             "name": "百度一下，你就知道",
-            "sync_transaction_version": "690",
+            "sync_transaction_version": "705",
             "type": "url",
             "url": "https://www.baidu.com/"
          }, {
             "date_added": "13181545902000000",
             "id": "7",
             "meta_info": {
-               "last_visited_desktop": "13189052496467748"
+               "last_visited_desktop": "13189152783144724"
             },
             "name": "GitHub",
-            "sync_transaction_version": "664",
+            "sync_transaction_version": "701",
             "type": "url",
             "url": "https://github.com/"
          }, {
             "date_added": "13181578493583908",
             "id": "22",
             "meta_info": {
-               "last_visited_desktop": "13188997163572825"
+               "last_visited_desktop": "13189158111761261"
             },
             "name": "Google 翻译",
-            "sync_transaction_version": "645",
+            "sync_transaction_version": "704",
             "type": "url",
             "url": "https://translate.google.cn/"
          }, {
@@ -96,10 +96,10 @@
             "date_added": "13187006127227663",
             "id": "88",
             "meta_info": {
-               "last_visited_desktop": "13189056195138304"
+               "last_visited_desktop": "13189087843930545"
             },
             "name": "Java 包(package) | 菜鸟教程",
-            "sync_transaction_version": "675",
+            "sync_transaction_version": "694",
             "type": "url",
             "url": "http://www.runoob.com/java/java-package.html"
          }, {
@@ -176,10 +176,10 @@
             "date_added": "13181569738233256",
             "id": "20",
             "meta_info": {
-               "last_visited_desktop": "13188979013743985"
+               "last_visited_desktop": "13189152180344410"
             },
             "name": "首页 -优书网",
-            "sync_transaction_version": "640",
+            "sync_transaction_version": "700",
             "type": "url",
             "url": "http://www.yousuu.com/"
          }, {
@@ -336,10 +336,10 @@
             "date_added": "13184129362839529",
             "id": "65",
             "meta_info": {
-               "last_visited_desktop": "13189052167217209"
+               "last_visited_desktop": "13189171244466643"
             },
             "name": "微信网页版",
-            "sync_transaction_version": "658",
+            "sync_transaction_version": "706",
             "type": "url",
             "url": "https://wx2.qq.com/"
          }, {
@@ -559,7 +559,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "690",
+      "sync_transaction_version": "706",
       "synced": {
          "children": [  ],
          "date_added": "13181547785966289",
