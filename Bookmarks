@@ -6,10 +6,10 @@
             "date_added": "13183985627499284",
             "id": "63",
             "meta_info": {
-               "last_visited_desktop": "13189161217173057"
+               "last_visited_desktop": "13189251993691238"
             },
             "name": "百度一下，你就知道",
-            "sync_transaction_version": "705",
+            "sync_transaction_version": "752",
             "type": "url",
             "url": "https://www.baidu.com/"
          }, {
@@ -46,20 +46,20 @@
             "date_added": "13188310805199355",
             "id": "111",
             "meta_info": {
-               "last_visited_desktop": "13188978999227982"
+               "last_visited_desktop": "13189251596249463"
             },
             "name": "* ROSEBUD | Trello",
-            "sync_transaction_version": "643",
+            "sync_transaction_version": "744",
             "type": "url",
             "url": "https://trello.com/trbt/home"
          }, {
             "date_added": "13186142073635464",
             "id": "86",
             "meta_info": {
-               "last_visited_desktop": "13188998553928554"
+               "last_visited_desktop": "13189251596838867"
             },
             "name": "我的云端硬盘 - Google 云端硬盘",
-            "sync_transaction_version": "647",
+            "sync_transaction_version": "746",
             "type": "url",
             "url": "https://drive.google.com/drive/my-drive"
          }, {
@@ -559,7 +559,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "706",
+      "sync_transaction_version": "752",
       "synced": {
          "children": [  ],
          "date_added": "13181547785966289",
