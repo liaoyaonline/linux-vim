@@ -6,10 +6,10 @@
             "date_added": "13183985627499284",
             "id": "63",
             "meta_info": {
-               "last_visited_desktop": "13189251993691238"
+               "last_visited_desktop": "13189263087112715"
             },
             "name": "百度一下，你就知道",
-            "sync_transaction_version": "752",
+            "sync_transaction_version": "753",
             "type": "url",
             "url": "https://www.baidu.com/"
          }, {
@@ -46,10 +46,10 @@
             "date_added": "13188310805199355",
             "id": "111",
             "meta_info": {
-               "last_visited_desktop": "13189251596249463"
+               "last_visited_desktop": "13189263546638846"
             },
             "name": "* ROSEBUD | Trello",
-            "sync_transaction_version": "744",
+            "sync_transaction_version": "761",
             "type": "url",
             "url": "https://trello.com/trbt/home"
          }, {
@@ -176,10 +176,10 @@
             "date_added": "13181569738233256",
             "id": "20",
             "meta_info": {
-               "last_visited_desktop": "13189152180344410"
+               "last_visited_desktop": "13189264150788204"
             },
             "name": "首页 -优书网",
-            "sync_transaction_version": "700",
+            "sync_transaction_version": "762",
             "type": "url",
             "url": "http://www.yousuu.com/"
          }, {
@@ -559,7 +559,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "752",
+      "sync_transaction_version": "762",
       "synced": {
          "children": [  ],
          "date_added": "13181547785966289",
