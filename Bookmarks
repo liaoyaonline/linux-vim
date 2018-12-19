@@ -6,10 +6,10 @@
             "date_added": "13183985627499284",
             "id": "63",
             "meta_info": {
-               "last_visited_desktop": "13189524971646601"
+               "last_visited_desktop": "13189595938436999"
             },
             "name": "百度一下，你就知道",
-            "sync_transaction_version": "777",
+            "sync_transaction_version": "782",
             "type": "url",
             "url": "https://www.baidu.com/"
          }, {
@@ -26,10 +26,10 @@
             "date_added": "13181578493583908",
             "id": "22",
             "meta_info": {
-               "last_visited_desktop": "13189504672888389"
+               "last_visited_desktop": "13189604472488739"
             },
             "name": "Google 翻译",
-            "sync_transaction_version": "771",
+            "sync_transaction_version": "789",
             "type": "url",
             "url": "https://translate.google.cn/"
          }, {
@@ -46,10 +46,10 @@
             "date_added": "13188310805199355",
             "id": "111",
             "meta_info": {
-               "last_visited_desktop": "13189263546638846"
+               "last_visited_desktop": "13189597603506622"
             },
             "name": "* ROSEBUD | Trello",
-            "sync_transaction_version": "761",
+            "sync_transaction_version": "788",
             "type": "url",
             "url": "https://trello.com/trbt/home"
          }, {
@@ -76,10 +76,10 @@
             "date_added": "13185355392607070",
             "id": "75",
             "meta_info": {
-               "last_visited_desktop": "13188311043251975"
+               "last_visited_desktop": "13189593977051766"
             },
             "name": "Aria2 Web 控制台",
-            "sync_transaction_version": "420",
+            "sync_transaction_version": "779",
             "type": "url",
             "url": "http://aria2c.com/"
          }, {
@@ -336,10 +336,10 @@
             "date_added": "13184129362839529",
             "id": "65",
             "meta_info": {
-               "last_visited_desktop": "13189171244466643"
+               "last_visited_desktop": "13189594035803954"
             },
             "name": "微信网页版",
-            "sync_transaction_version": "706",
+            "sync_transaction_version": "780",
             "type": "url",
             "url": "https://wx2.qq.com/"
          }, {
@@ -559,7 +559,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "777",
+      "sync_transaction_version": "789",
       "synced": {
          "children": [  ],
          "date_added": "13181547785966289",
