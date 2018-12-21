@@ -1,15 +1,15 @@
 {
-   "checksum": "d6b3ce550beb87b00c5ec6c038dd6a84",
+   "checksum": "4fa28930afe0b8003d01e0f370bb9b48",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "date_added": "13183985627499284",
             "id": "63",
             "meta_info": {
-               "last_visited_desktop": "13189699247017589"
+               "last_visited_desktop": "13189755920086332"
             },
             "name": "百度一下，你就知道",
-            "sync_transaction_version": "806",
+            "sync_transaction_version": "809",
             "type": "url",
             "url": "https://www.baidu.com/"
          }, {
@@ -176,10 +176,10 @@
             "date_added": "13181569738233256",
             "id": "20",
             "meta_info": {
-               "last_visited_desktop": "13189523900716645"
+               "last_visited_desktop": "13189784710745502"
             },
             "name": "首页 -优书网",
-            "sync_transaction_version": "775",
+            "sync_transaction_version": "815",
             "type": "url",
             "url": "http://www.yousuu.com/"
          }, {
@@ -336,10 +336,10 @@
             "date_added": "13184129362839529",
             "id": "65",
             "meta_info": {
-               "last_visited_desktop": "13189698099693147"
+               "last_visited_desktop": "13189755917075217"
             },
             "name": "微信网页版",
-            "sync_transaction_version": "804",
+            "sync_transaction_version": "808",
             "type": "url",
             "url": "https://wx2.qq.com/"
          }, {
@@ -562,9 +562,19 @@
             "sync_transaction_version": "803",
             "type": "url",
             "url": "http://a8bt.co/"
+         }, {
+            "date_added": "13189771516144813",
+            "id": "116",
+            "meta_info": {
+               "last_visited_desktop": "13189771516145145"
+            },
+            "name": "登录 - 力扣 (LeetCode)",
+            "sync_transaction_version": "814",
+            "type": "url",
+            "url": "https://leetcode-cn.com/accounts/login/?next=/explore/interview/card/bytedance/242/string/"
          } ],
          "date_added": "13181547785966285",
-         "date_modified": "13189698067664598",
+         "date_modified": "13189771516144813",
          "id": "1",
          "name": "书签栏",
          "sync_transaction_version": "3",
@@ -579,7 +589,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "806",
+      "sync_transaction_version": "815",
       "synced": {
          "children": [  ],
          "date_added": "13181547785966289",
