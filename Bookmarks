@@ -176,10 +176,10 @@
             "date_added": "13181569738233256",
             "id": "20",
             "meta_info": {
-               "last_visited_desktop": "13189784710745502"
+               "last_visited_desktop": "13189870160718761"
             },
             "name": "首页 -优书网",
-            "sync_transaction_version": "815",
+            "sync_transaction_version": "816",
             "type": "url",
             "url": "http://www.yousuu.com/"
          }, {
@@ -589,7 +589,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "815",
+      "sync_transaction_version": "816",
       "synced": {
          "children": [  ],
          "date_added": "13181547785966289",
