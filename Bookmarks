@@ -6,10 +6,10 @@
             "date_added": "13183985627499284",
             "id": "63",
             "meta_info": {
-               "last_visited_desktop": "13189755920086332"
+               "last_visited_desktop": "13189943756220842"
             },
             "name": "百度一下，你就知道",
-            "sync_transaction_version": "809",
+            "sync_transaction_version": "819",
             "type": "url",
             "url": "https://www.baidu.com/"
          }, {
@@ -176,10 +176,10 @@
             "date_added": "13181569738233256",
             "id": "20",
             "meta_info": {
-               "last_visited_desktop": "13189870160718761"
+               "last_visited_desktop": "13189941433431774"
             },
             "name": "首页 -优书网",
-            "sync_transaction_version": "816",
+            "sync_transaction_version": "818",
             "type": "url",
             "url": "http://www.yousuu.com/"
          }, {
@@ -589,7 +589,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "816",
+      "sync_transaction_version": "819",
       "synced": {
          "children": [  ],
          "date_added": "13181547785966289",
