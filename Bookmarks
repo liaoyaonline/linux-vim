@@ -6,10 +6,10 @@
             "date_added": "13183985627499284",
             "id": "63",
             "meta_info": {
-               "last_visited_desktop": "13190038786436027"
+               "last_visited_desktop": "13190046223336272"
             },
             "name": "百度一下，你就知道",
-            "sync_transaction_version": "833",
+            "sync_transaction_version": "836",
             "type": "url",
             "url": "https://www.baidu.com/"
          }, {
@@ -236,10 +236,10 @@
             "date_added": "13183186267555400",
             "id": "47",
             "meta_info": {
-               "last_visited_desktop": "13184167812280088"
+               "last_visited_desktop": "13190046258651578"
             },
             "name": "https://portal1.ecnu.edu.cn/cas/login?service=http%3A%2F%2Fportal.ecnu.edu.cn%2Fneusoftcas.jsp",
-            "sync_transaction_version": "312",
+            "sync_transaction_version": "838",
             "type": "url",
             "url": "https://portal1.ecnu.edu.cn/cas/login?service=http%3A%2F%2Fportal.ecnu.edu.cn%2Fneusoftcas.jsp"
          }, {
@@ -336,10 +336,10 @@
             "date_added": "13184129362839529",
             "id": "65",
             "meta_info": {
-               "last_visited_desktop": "13190034410989386"
+               "last_visited_desktop": "13190045004936261"
             },
             "name": "微信网页版",
-            "sync_transaction_version": "821",
+            "sync_transaction_version": "835",
             "type": "url",
             "url": "https://wx2.qq.com/"
          }, {
@@ -609,7 +609,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "833",
+      "sync_transaction_version": "838",
       "synced": {
          "children": [  ],
          "date_added": "13181547785966289",
