@@ -1,15 +1,15 @@
 {
-   "checksum": "0efae2cf00349eba5d424d5213bea672",
+   "checksum": "4586477448d4472b04775f5d14145184",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "date_added": "13183985627499284",
             "id": "63",
             "meta_info": {
-               "last_visited_desktop": "13190127892355428"
+               "last_visited_desktop": "13190263207413004"
             },
             "name": "百度一下，你就知道",
-            "sync_transaction_version": "843",
+            "sync_transaction_version": "858",
             "type": "url",
             "url": "https://www.baidu.com/"
          }, {
@@ -176,10 +176,10 @@
             "date_added": "13181569738233256",
             "id": "20",
             "meta_info": {
-               "last_visited_desktop": "13190099484943834"
+               "last_visited_desktop": "13190301520759042"
             },
             "name": "首页 -优书网",
-            "sync_transaction_version": "840",
+            "sync_transaction_version": "861",
             "type": "url",
             "url": "http://www.yousuu.com/"
          }, {
@@ -336,10 +336,10 @@
             "date_added": "13184129362839529",
             "id": "65",
             "meta_info": {
-               "last_visited_desktop": "13190127900428686"
+               "last_visited_desktop": "13190262000463214"
             },
             "name": "微信网页版",
-            "sync_transaction_version": "844",
+            "sync_transaction_version": "857",
             "type": "url",
             "url": "https://wx2.qq.com/"
          }, {
@@ -592,9 +592,19 @@
             "sync_transaction_version": "832",
             "type": "url",
             "url": "https://www.dash.org/"
+         }, {
+            "date_added": "13190182352964137",
+            "id": "121",
+            "meta_info": {
+               "last_visited_desktop": "13190191477200420"
+            },
+            "name": "首页",
+            "sync_transaction_version": "853",
+            "type": "url",
+            "url": "http://xyy.ecnu.edu.cn/"
          } ],
          "date_added": "13181547785966285",
-         "date_modified": "13190038752428608",
+         "date_modified": "13190182352964137",
          "id": "1",
          "name": "书签栏",
          "sync_transaction_version": "3",
@@ -609,7 +619,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "844",
+      "sync_transaction_version": "861",
       "synced": {
          "children": [  ],
          "date_added": "13181547785966289",
