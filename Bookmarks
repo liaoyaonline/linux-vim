@@ -176,10 +176,10 @@
             "date_added": "13181569738233256",
             "id": "20",
             "meta_info": {
-               "last_visited_desktop": "13190301520759042"
+               "last_visited_desktop": "13190342522884550"
             },
             "name": "首页 -优书网",
-            "sync_transaction_version": "861",
+            "sync_transaction_version": "863",
             "type": "url",
             "url": "http://www.yousuu.com/"
          }, {
@@ -596,10 +596,10 @@
             "date_added": "13190182352964137",
             "id": "121",
             "meta_info": {
-               "last_visited_desktop": "13190191477200420"
+               "last_visited_desktop": "13190342533884872"
             },
             "name": "首页",
-            "sync_transaction_version": "853",
+            "sync_transaction_version": "864",
             "type": "url",
             "url": "http://xyy.ecnu.edu.cn/"
          } ],
@@ -619,7 +619,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "861",
+      "sync_transaction_version": "864",
       "synced": {
          "children": [  ],
          "date_added": "13181547785966289",
