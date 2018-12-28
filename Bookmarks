@@ -6,10 +6,10 @@
             "date_added": "13183985627499284",
             "id": "63",
             "meta_info": {
-               "last_visited_desktop": "13190263207413004"
+               "last_visited_desktop": "13190368782919132"
             },
             "name": "百度一下，你就知道",
-            "sync_transaction_version": "858",
+            "sync_transaction_version": "877",
             "type": "url",
             "url": "https://www.baidu.com/"
          }, {
@@ -26,20 +26,20 @@
             "date_added": "13181578493583908",
             "id": "22",
             "meta_info": {
-               "last_visited_desktop": "13189604472488739"
+               "last_visited_desktop": "13190366033034964"
             },
             "name": "Google 翻译",
-            "sync_transaction_version": "789",
+            "sync_transaction_version": "876",
             "type": "url",
             "url": "https://translate.google.cn/"
          }, {
             "date_added": "13181547868444282",
             "id": "19",
             "meta_info": {
-               "last_visited_desktop": "13189498723336150"
+               "last_visited_desktop": "13190352513824997"
             },
             "name": "有道云笔记",
-            "sync_transaction_version": "770",
+            "sync_transaction_version": "872",
             "type": "url",
             "url": "https://note.youdao.com/web/#/file/recent/markdown/WEB136385345f999ac37d59c321cacf2658/"
          }, {
@@ -176,10 +176,10 @@
             "date_added": "13181569738233256",
             "id": "20",
             "meta_info": {
-               "last_visited_desktop": "13190342522884550"
+               "last_visited_desktop": "13190348229511723"
             },
             "name": "首页 -优书网",
-            "sync_transaction_version": "863",
+            "sync_transaction_version": "866",
             "type": "url",
             "url": "http://www.yousuu.com/"
          }, {
@@ -216,10 +216,10 @@
             "date_added": "13182686502269492",
             "id": "43",
             "meta_info": {
-               "last_visited_desktop": "13184922562193710"
+               "last_visited_desktop": "13190363576842479"
             },
             "name": "const T vs. T const ——Dan Saks - CSDN博客",
-            "sync_transaction_version": "312",
+            "sync_transaction_version": "875",
             "type": "url",
             "url": "https://blog.csdn.net/bianbian17556231/article/details/5398276"
          }, {
@@ -596,10 +596,10 @@
             "date_added": "13190182352964137",
             "id": "121",
             "meta_info": {
-               "last_visited_desktop": "13190342533884872"
+               "last_visited_desktop": "13190348234727511"
             },
             "name": "首页",
-            "sync_transaction_version": "864",
+            "sync_transaction_version": "867",
             "type": "url",
             "url": "http://xyy.ecnu.edu.cn/"
          } ],
@@ -619,7 +619,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "864",
+      "sync_transaction_version": "877",
       "synced": {
          "children": [  ],
          "date_added": "13181547785966289",
