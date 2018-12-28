@@ -6,10 +6,10 @@
             "date_added": "13183985627499284",
             "id": "63",
             "meta_info": {
-               "last_visited_desktop": "13190368782919132"
+               "last_visited_desktop": "13190459869843702"
             },
             "name": "百度一下，你就知道",
-            "sync_transaction_version": "877",
+            "sync_transaction_version": "878",
             "type": "url",
             "url": "https://www.baidu.com/"
          }, {
@@ -336,10 +336,10 @@
             "date_added": "13184129362839529",
             "id": "65",
             "meta_info": {
-               "last_visited_desktop": "13190262000463214"
+               "last_visited_desktop": "13190461152295558"
             },
             "name": "微信网页版",
-            "sync_transaction_version": "857",
+            "sync_transaction_version": "879",
             "type": "url",
             "url": "https://wx2.qq.com/"
          }, {
@@ -619,7 +619,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "877",
+      "sync_transaction_version": "879",
       "synced": {
          "children": [  ],
          "date_added": "13181547785966289",
