@@ -336,10 +336,10 @@
             "date_added": "13184129362839529",
             "id": "65",
             "meta_info": {
-               "last_visited_desktop": "13190643114500888"
+               "last_visited_desktop": "13190643611325865"
             },
             "name": "微信网页版",
-            "sync_transaction_version": "941",
+            "sync_transaction_version": "944",
             "type": "url",
             "url": "https://wx2.qq.com/"
          }, {
@@ -619,7 +619,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "941",
+      "sync_transaction_version": "944",
       "synced": {
          "children": [  ],
          "date_added": "13181547785966289",
