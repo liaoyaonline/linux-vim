@@ -6,20 +6,20 @@
             "date_added": "13183985627499284",
             "id": "63",
             "meta_info": {
-               "last_visited_desktop": "13190556067276864"
+               "last_visited_desktop": "13190786641556098"
             },
             "name": "百度一下，你就知道",
-            "sync_transaction_version": "933",
+            "sync_transaction_version": "954",
             "type": "url",
             "url": "https://www.baidu.com/"
          }, {
             "date_added": "13181545902000000",
             "id": "7",
             "meta_info": {
-               "last_visited_desktop": "13189152783144724"
+               "last_visited_desktop": "13190715129566177"
             },
             "name": "GitHub",
-            "sync_transaction_version": "701",
+            "sync_transaction_version": "952",
             "type": "url",
             "url": "https://github.com/"
          }, {
@@ -176,10 +176,10 @@
             "date_added": "13181569738233256",
             "id": "20",
             "meta_info": {
-               "last_visited_desktop": "13190529412828159"
+               "last_visited_desktop": "13190780198652123"
             },
             "name": "首页 -优书网",
-            "sync_transaction_version": "899",
+            "sync_transaction_version": "953",
             "type": "url",
             "url": "http://www.yousuu.com/"
          }, {
@@ -336,10 +336,10 @@
             "date_added": "13184129362839529",
             "id": "65",
             "meta_info": {
-               "last_visited_desktop": "13190643611325865"
+               "last_visited_desktop": "13190709858033541"
             },
             "name": "微信网页版",
-            "sync_transaction_version": "944",
+            "sync_transaction_version": "945",
             "type": "url",
             "url": "https://wx2.qq.com/"
          }, {
@@ -436,10 +436,10 @@
             "date_added": "13186140123299454",
             "id": "84",
             "meta_info": {
-               "last_visited_desktop": "13188385887943328"
+               "last_visited_desktop": "13190713296580234"
             },
             "name": "YouTube",
-            "sync_transaction_version": "452",
+            "sync_transaction_version": "948",
             "type": "url",
             "url": "https://www.youtube.com/"
          }, {
@@ -619,7 +619,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "944",
+      "sync_transaction_version": "954",
       "synced": {
          "children": [  ],
          "date_added": "13181547785966289",
