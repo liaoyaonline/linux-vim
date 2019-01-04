@@ -6,10 +6,10 @@
             "date_added": "13183985627499284",
             "id": "63",
             "meta_info": {
-               "last_visited_desktop": "13190985600381842"
+               "last_visited_desktop": "13191072065321185"
             },
             "name": "百度一下，你就知道",
-            "sync_transaction_version": "1005",
+            "sync_transaction_version": "1027",
             "type": "url",
             "url": "https://www.baidu.com/"
          }, {
@@ -56,10 +56,10 @@
             "date_added": "13186142073635464",
             "id": "86",
             "meta_info": {
-               "last_visited_desktop": "13190971983304030"
+               "last_visited_desktop": "13191071615382419"
             },
             "name": "我的云端硬盘 - Google 云端硬盘",
-            "sync_transaction_version": "990",
+            "sync_transaction_version": "1024",
             "type": "url",
             "url": "https://drive.google.com/drive/my-drive"
          }, {
@@ -176,10 +176,10 @@
             "date_added": "13181569738233256",
             "id": "20",
             "meta_info": {
-               "last_visited_desktop": "13190905110614745"
+               "last_visited_desktop": "13191060080736258"
             },
             "name": "首页 -优书网",
-            "sync_transaction_version": "974",
+            "sync_transaction_version": "1009",
             "type": "url",
             "url": "http://www.yousuu.com/"
          }, {
@@ -436,10 +436,10 @@
             "date_added": "13186140123299454",
             "id": "84",
             "meta_info": {
-               "last_visited_desktop": "13190713296580234"
+               "last_visited_desktop": "13191071813353671"
             },
             "name": "YouTube",
-            "sync_transaction_version": "948",
+            "sync_transaction_version": "1026",
             "type": "url",
             "url": "https://www.youtube.com/"
          }, {
@@ -619,7 +619,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1005",
+      "sync_transaction_version": "1027",
       "synced": {
          "children": [  ],
          "date_added": "13181547785966289",
