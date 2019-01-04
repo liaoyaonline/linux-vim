@@ -6,10 +6,10 @@
             "date_added": "13183985627499284",
             "id": "63",
             "meta_info": {
-               "last_visited_desktop": "13190898098505120"
+               "last_visited_desktop": "13190985600381842"
             },
             "name": "百度一下，你就知道",
-            "sync_transaction_version": "971",
+            "sync_transaction_version": "1005",
             "type": "url",
             "url": "https://www.baidu.com/"
          }, {
@@ -26,10 +26,10 @@
             "date_added": "13181578493583908",
             "id": "22",
             "meta_info": {
-               "last_visited_desktop": "13190896718145743"
+               "last_visited_desktop": "13190985374963981"
             },
             "name": "Google 翻译",
-            "sync_transaction_version": "970",
+            "sync_transaction_version": "1004",
             "type": "url",
             "url": "https://translate.google.cn/"
          }, {
@@ -56,10 +56,10 @@
             "date_added": "13186142073635464",
             "id": "86",
             "meta_info": {
-               "last_visited_desktop": "13189251596838867"
+               "last_visited_desktop": "13190971983304030"
             },
             "name": "我的云端硬盘 - Google 云端硬盘",
-            "sync_transaction_version": "746",
+            "sync_transaction_version": "990",
             "type": "url",
             "url": "https://drive.google.com/drive/my-drive"
          }, {
@@ -176,10 +176,10 @@
             "date_added": "13181569738233256",
             "id": "20",
             "meta_info": {
-               "last_visited_desktop": "13190898482017198"
+               "last_visited_desktop": "13190905110614745"
             },
             "name": "首页 -优书网",
-            "sync_transaction_version": "972",
+            "sync_transaction_version": "974",
             "type": "url",
             "url": "http://www.yousuu.com/"
          }, {
@@ -196,10 +196,10 @@
             "date_added": "13182528574678094",
             "id": "39",
             "meta_info": {
-               "last_visited_desktop": "13182528584891989"
+               "last_visited_desktop": "13190973472814844"
             },
             "name": "1.介绍 · Rust 程序设计语言（第一版） 简体中文版",
-            "sync_transaction_version": "312",
+            "sync_transaction_version": "996",
             "type": "url",
             "url": "https://kaisery.gitbooks.io/rust-book-chinese/content/content/README%20%E4%BB%8B%E7%BB%8D.html"
          }, {
@@ -236,10 +236,10 @@
             "date_added": "13183186267555400",
             "id": "47",
             "meta_info": {
-               "last_visited_desktop": "13190046258651578"
+               "last_visited_desktop": "13190905834363031"
             },
             "name": "https://portal1.ecnu.edu.cn/cas/login?service=http%3A%2F%2Fportal.ecnu.edu.cn%2Fneusoftcas.jsp",
-            "sync_transaction_version": "838",
+            "sync_transaction_version": "978",
             "type": "url",
             "url": "https://portal1.ecnu.edu.cn/cas/login?service=http%3A%2F%2Fportal.ecnu.edu.cn%2Fneusoftcas.jsp"
          }, {
@@ -596,10 +596,10 @@
             "date_added": "13190182352964137",
             "id": "121",
             "meta_info": {
-               "last_visited_desktop": "13190896668043430"
+               "last_visited_desktop": "13190905218611983"
             },
             "name": "首页",
-            "sync_transaction_version": "969",
+            "sync_transaction_version": "975",
             "type": "url",
             "url": "http://xyy.ecnu.edu.cn/"
          } ],
@@ -619,7 +619,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "972",
+      "sync_transaction_version": "1005",
       "synced": {
          "children": [  ],
          "date_added": "13181547785966289",
