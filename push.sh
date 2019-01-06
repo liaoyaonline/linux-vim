@@ -1,8 +1,8 @@
 #!/bin/bash
 function push_bookmarks() #将标签上传到github
 {
-    git add /home/liaoya/github/linux-vim/Bookmarks
-    git commit -m "日常更新标签"
-    git push
+    git add /home/liaoya/github/linux-vim/*
+    git commit -m "日常更新"
+    git push origin master
 }
 push_bookmarks

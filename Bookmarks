@@ -6,30 +6,30 @@
             "date_added": "13183985627499284",
             "id": "63",
             "meta_info": {
-               "last_visited_desktop": "13191159559240771"
+               "last_visited_desktop": "13191236797217466"
             },
             "name": "百度一下，你就知道",
-            "sync_transaction_version": "1044",
+            "sync_transaction_version": "1068",
             "type": "url",
             "url": "https://www.baidu.com/"
          }, {
             "date_added": "13181545902000000",
             "id": "7",
             "meta_info": {
-               "last_visited_desktop": "13190715129566177"
+               "last_visited_desktop": "13191234931028626"
             },
             "name": "GitHub",
-            "sync_transaction_version": "952",
+            "sync_transaction_version": "1060",
             "type": "url",
             "url": "https://github.com/"
          }, {
             "date_added": "13181578493583908",
             "id": "22",
             "meta_info": {
-               "last_visited_desktop": "13191159571881001"
+               "last_visited_desktop": "13191235229125639"
             },
             "name": "Google 翻译",
-            "sync_transaction_version": "1045",
+            "sync_transaction_version": "1066",
             "type": "url",
             "url": "https://translate.google.cn/"
          }, {
@@ -66,10 +66,10 @@
             "date_added": "13187522737498302",
             "id": "94",
             "meta_info": {
-               "last_visited_desktop": "13188999557197241"
+               "last_visited_desktop": "13191233487072532"
             },
             "name": "(84) 收件箱 | 71174500014@protonmail.com | ProtonMail",
-            "sync_transaction_version": "649",
+            "sync_transaction_version": "1053",
             "type": "url",
             "url": "https://mail.protonmail.com/inbox/aSqR2St4RkSgF9no_W9NQ3iqs-BLi2ORND506-Gct174Vrs6TDXrklUsUHWBfYhmJbp2KBuuw89DxpLhO_A30g=="
          }, {
@@ -86,10 +86,10 @@
             "date_added": "13181648398402333",
             "id": "25",
             "meta_info": {
-               "last_visited_desktop": "13189010219880963"
+               "last_visited_desktop": "13191233521226092"
             },
             "name": "腾讯企业邮箱",
-            "sync_transaction_version": "653",
+            "sync_transaction_version": "1055",
             "type": "url",
             "url": "https://exmail.qq.com/cgi-bin/frame_html?sid=lSSFY9m1oLwjFTxn,2&r=28e4f7f61c127178adf8958848a13e71"
          }, {
@@ -126,10 +126,10 @@
             "date_added": "13181653065285818",
             "id": "26",
             "meta_info": {
-               "last_visited_desktop": "13188123183280202"
+               "last_visited_desktop": "13191232747286751"
             },
             "name": "戴琼锋，欢迎关注校友会及母校动态！ - QQ邮箱",
-            "sync_transaction_version": "348",
+            "sync_transaction_version": "1050",
             "type": "url",
             "url": "https://mail.qq.com/cgi-bin/frame_html?sid=l7SZ7ylWNyS7flMI&r=1d79d30d70eafe7a6b3d57802278ed8e"
          }, {
@@ -176,10 +176,10 @@
             "date_added": "13181569738233256",
             "id": "20",
             "meta_info": {
-               "last_visited_desktop": "13191153640434949"
+               "last_visited_desktop": "13191234220387273"
             },
             "name": "首页 -优书网",
-            "sync_transaction_version": "1041",
+            "sync_transaction_version": "1057",
             "type": "url",
             "url": "http://www.yousuu.com/"
          }, {
@@ -256,10 +256,10 @@
             "date_added": "13183733871826318",
             "id": "51",
             "meta_info": {
-               "last_visited_desktop": "13186739583632022"
+               "last_visited_desktop": "13191235998940154"
             },
             "name": "Ubuntu环境如何上传项目到GitHub网站？ - 剑影啸清寒的代码世界 - CSDN博客",
-            "sync_transaction_version": "312",
+            "sync_transaction_version": "1067",
             "type": "url",
             "url": "https://blog.csdn.net/ajianyingxiaoqinghan/article/details/70544159"
          }, {
@@ -336,10 +336,10 @@
             "date_added": "13184129362839529",
             "id": "65",
             "meta_info": {
-               "last_visited_desktop": "13191151804968952"
+               "last_visited_desktop": "13191233388102655"
             },
             "name": "微信网页版",
-            "sync_transaction_version": "1039",
+            "sync_transaction_version": "1052",
             "type": "url",
             "url": "https://wx2.qq.com/"
          }, {
@@ -619,7 +619,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1047",
+      "sync_transaction_version": "1068",
       "synced": {
          "children": [  ],
          "date_added": "13181547785966289",
