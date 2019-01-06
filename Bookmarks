@@ -1,8 +1,18 @@
 {
-   "checksum": "9da171354bb35d5641a6548296393340",
+   "checksum": "1b3ddfdb6208e1f89047bb6cf83100d9",
    "roots": {
       "bookmark_bar": {
          "children": [ {
+            "date_added": "13191239951463729",
+            "id": "123",
+            "meta_info": {
+               "last_visited_desktop": "13191239951463986"
+            },
+            "name": "百度一下，你就知道",
+            "sync_transaction_version": "1075",
+            "type": "url",
+            "url": "https://www.baidu.com/"
+         }, {
             "date_added": "13181545902000000",
             "id": "7",
             "meta_info": {
@@ -594,7 +604,7 @@
             "url": "http://xyy.ecnu.edu.cn/"
          } ],
          "date_added": "13181547785966285",
-         "date_modified": "13190182352964137",
+         "date_modified": "13191239957616083",
          "id": "1",
          "name": "书签栏",
          "sync_transaction_version": "3",
@@ -609,7 +619,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "1071",
+      "sync_transaction_version": "1075",
       "synced": {
          "children": [  ],
          "date_added": "13181547785966289",
